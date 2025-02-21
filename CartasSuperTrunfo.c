@@ -23,7 +23,7 @@ int main() {
 
     
     char estado2 = 'B';
-    char codigo2[3] = "B02";
+    char codigo2[7] = "B02";
     char nome_da_cidade2[21] = "Salvador";
     float populacao2 = 14.14;
     float area2 = 567.295;
